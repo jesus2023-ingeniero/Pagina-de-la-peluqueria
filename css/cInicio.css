@@ -1,0 +1,9 @@
+
+  body {
+    background: url(../imagen-fondo/Fondo-iniciar-sesion.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1; /* Agregar opacidad */
+    filter: blur(0px); /* Agregar efecto de desenfoque */
+  }
+  
